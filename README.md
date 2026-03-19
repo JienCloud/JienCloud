@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👨‍💻 About Me
+Computer Engineering undergraduate with a strong interest in cloud computing.  
+Currently building skills through online courses and hands-on AWS projects.
 
-<!--
-**JienCloud/JienCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Features
+- Hosted using AWS S3  
+- Static portfolio website  
+- Organized HTML and image files  
 
-Here are some ideas to get you started:
+## 🛠️ Tools
+- AWS S3   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Demo
+Currently learning so I deleted my website to avoid charges instead I have readme that explains 
+how I learned, understand, build, and deploy the projects.
+
+## 📚 Learning
+Built as part of my self-learning through online courses and practice.
+
+## 📬 Contact 
+LinkedIn: www.linkedin.com/in/jieno-renz-cadiz-2a6995385 
