@@ -18,6 +18,3 @@ Built as part of my self-learning through online courses and practice.
 Currently learning so I deleted everytime I finished the project to avoid charges instead I have readme that explains 
 how I learned, understand, build, and deploy the projects.
 
-## 📬 Contact 
-LinkedIn: www.linkedin.com/in/jieno-renz-cadiz-2a6995385 
-Facebook: www.facebook.com/jienorenz.cadizii
