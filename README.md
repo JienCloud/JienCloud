@@ -2,20 +2,22 @@
 Computer Engineering undergraduate with a strong interest in cloud computing.  
 Currently building skills through online courses and hands-on AWS projects.
 
-## 🚀 Features
-- Hosted using AWS S3  
-- Static portfolio website  
-- Organized HTML and image files  
-
 ## 🛠️ Tools
-- AWS S3   
+- AWS S3
+- AWS IAM
+- Amazon EC2 
 
-## 🌍 Demo
-Currently learning so I deleted my website to avoid charges instead I have readme that explains 
-how I learned, understand, build, and deploy the projects.
+## 🚀 Features
+- Hosted static website using AWS S3
+- Launch and manage Amazon EC2 instances for powerful, scalable computing.  
 
 ## 📚 Learning
 Built as part of my self-learning through online courses and practice.
 
+## 🌍 Demo
+Currently learning so I deleted everytime I finished the project to avoid charges instead I have readme that explains 
+how I learned, understand, build, and deploy the projects.
+
 ## 📬 Contact 
 LinkedIn: www.linkedin.com/in/jieno-renz-cadiz-2a6995385 
+Facebook: www.facebook.com/jienorenz.cadizii
