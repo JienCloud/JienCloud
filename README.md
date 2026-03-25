@@ -5,11 +5,14 @@ Currently building skills through online courses and hands-on AWS projects.
 ## 🛠️ Tools
 - AWS S3
 - AWS IAM
-- Amazon EC2 
+- Amazon EC2
+- VPC
+- CloudShell
 
 ## 🚀 Features
 - Hosted static website using AWS S3
-- Launch and manage Amazon EC2 instances for powerful, scalable computing.  
+- Launch and manage Amazon EC2 instances for powerful, scalable computing.
+- Created a VPC, Subnets, and Internet Gateway. In addition CloudShell is used to create all those. 
 
 ## 📚 Learning
 Built as part of my self-learning through online courses and practice.
