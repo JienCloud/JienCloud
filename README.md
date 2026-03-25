@@ -3,11 +3,11 @@ Computer Engineering undergraduate with a strong interest in cloud computing.
 Currently building skills through online courses and hands-on AWS projects.
 
 ## 🛠️ Tools
-- AWS S3
-- AWS IAM
-- Amazon EC2
-- VPC
-- CloudShell
+- AWS S3 (Beginner)
+- AWS IAM (Beginner)
+- Amazon EC2 (Beginner)
+- VPC (Beginner)
+- CloudShell (Beginner)
 
 ## 🚀 Features
 - Hosted static website using AWS S3
