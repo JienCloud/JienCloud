@@ -17,7 +17,4 @@ Currently building skills through online courses and hands-on AWS projects.
 ## 📚 Learning
 Built as part of my self-learning through online courses and practice.
 
-## 🌍 Demo
-Currently learning so I deleted everytime I finished the project to avoid charges instead I have readme that explains 
-how I learned, understand, build, and deploy the projects.
 
