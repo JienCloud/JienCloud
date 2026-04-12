@@ -3,14 +3,12 @@ Computer Engineering undergraduate with a strong interest in cloud computing.
 Currently building skills through online courses and hands-on AWS projects.
 
 ## 🛠️ Tools
-- Python (Intermediate)
-- Bash (Beginner)
-- Django (Beginner)
 - AWS S3 (Beginner)
 - AWS IAM (Beginner)
 - Amazon EC2 (Beginner)
 - VPC (Beginner)
 - CloudShell (Beginner)
+- Python (Intermediate)
 
 ## 🚀 Features
 - Hosted static website using AWS S3
