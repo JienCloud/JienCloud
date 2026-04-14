@@ -8,7 +8,8 @@ Currently building skills through online courses and hands-on AWS projects.
 - Amazon EC2 (Beginner)
 - VPC (Beginner)
 - CloudShell (Beginner)
-- Python (Intermediate)
+- Python (Beginner)
+- C++ (Intermediate)
 
 ## 🚀 Features
 - Hosted static website using AWS S3
