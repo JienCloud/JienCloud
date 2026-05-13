@@ -7,7 +7,6 @@ Currently building skills through online courses and hands-on AWS projects.
 - AWS IAM (Beginner)
 - Amazon EC2 (Beginner)
 - VPC (Beginner)
-- CloudShell (Beginner)
 - Python (Beginner)
 - C++ (Intermediate)
 
